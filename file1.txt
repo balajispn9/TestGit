@@ -1,7 +1,7 @@
 this is line 1
 this is line 2
-this is line 3 ** added more info to line 3 ****
-this is line 4
+this is line 3 ** added more info to line 3 ****  ** added some more info to line 3 **
+this is line 4 ** added more info to line 4 **
 this is line 5
 this is line 6
 **added new line 7 ****
