@@ -1,12 +1,7 @@
 this is line 1
 this is line 2
-<<<<<<< HEAD
-this is line 3  ** addd more info to line 3 **
-this is line 4  ** add more info to line 4 **
-=======
 this is line 3 ** added more info to line 3 ****
 this is line 4
->>>>>>> 35ef7b8bdc0058cb8476e6a5153b689b43a28fcf
 this is line 5
 this is line 6
 **added new line 7 ****
