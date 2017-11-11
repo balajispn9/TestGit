@@ -1,7 +1,9 @@
 this is line 1
 this is line 2
-this is line 3 ** add info to line 3 from master **
+this is line 3 ** add info to line 3 from master ** **add info to line from SDN **
 this is line 4 ** add info to line 4 from master **
+this is line 3a **add info to line from SDN ** **second udate to line 3 from SDN **
+this is line 4b ** add info to line4 from SDN **
 this is line 5
 this is line 6
 ** added line 7 from master **
